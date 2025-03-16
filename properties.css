@@ -1,0 +1,79 @@
+body {
+    background-image: url(rdr2.jpg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  } 
+  .page2 {
+    background-image: url(page2.jpg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .page3 {
+    background-image: url(page3.jpeg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .page4 {
+    background-image: url(page4.jpg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+.gg {
+    color:maroon;
+    font-size: 100px;
+    text-align: center;
+}
+.gg2 {
+    color:maroon;
+    font-size: 20px;
+    text-align: center;
+}
+.gg2:hover{
+    background-color:goldenrod;
+}
+.gg3{
+    color:brown;
+    font-size: 30px;
+    text-align: center;
+    background-color:khaki;
+}
+.gg4{
+    color:firebrick;
+    text-decoration:wavy;
+}
+.gg5{
+    color:brown;
+    text-decoration: none;
+    font-weight: bold;
+}
+.gg6{
+    color:brown;
+    font-size: 30px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.gg7{
+    background-color: antiquewhite;
+}
+.gg8{
+    float: right;
+    margin: auto;
+}
+.gg9{
+    background-color: brown;
+}
+.gg10{
+    color:rgb(249, 114, 69);
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(243, 232, 221);
+}
